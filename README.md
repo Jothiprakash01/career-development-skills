@@ -1,7 +1,7 @@
 """
 Experiment 05: Turn The Code
 Task: Invert a dictionary and aggregate duplicate values into lists.
-Author: Sanjutha D (Reg No: 212225240136)
+Author: Jothi Prakash s (Reg No: 212223080021)
 """
 
 from collections import defaultdict
